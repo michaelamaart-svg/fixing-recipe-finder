@@ -1,3 +1,4 @@
+For each of your answers you need screenshots showing that you solved the questions. If you are unsure about you answer, ask the facilitar.
 A. The Action:
 
 1. Create a folder on your local machine named recipe-finder.
